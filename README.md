@@ -1,6 +1,6 @@
 # CSCE 313 — Lab 4: Encrypted TCP Messenger
 
-**Due: Dec 12, 2026| 100 points**
+**Due: Dec 2, 2026| 100 points**
 
 Build a single-client TCP echo messenger on `127.0.0.1`, then add educational XOR encryption and toy RSA key exchange. **The cryptography in this lab is intentionally insecure and is for classroom learning only.**
 
